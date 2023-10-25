@@ -44,7 +44,7 @@ li a {
 }
 
 li a:hover {
-    color: #FFA500; /* Cor laranja ao passar o mouse */
+    color: #53b1ff; /* Cor laranja ao passar o mouse */
    
 }
 
@@ -59,7 +59,7 @@ section {
 }
 
 h2 {
-    color: orange; 
+    color: rgb(33, 129, 255); 
 }
 
 .ACShools
@@ -101,11 +101,17 @@ main h1 {
 }
 
 .x {
-    margin-left: 45px;
+    margin-left: 48px;
     text-align: left;
     padding-top: 45px;
-    color: rgb(72, 130, 255);
+    color: rgb(125, 170, 255);
     font-variant: small-caps;
+}
+
+#o {
+    color: #4a92ff;
+    text-align: center;
+    margin-top: 20px;
 }
 
 .texto {
@@ -116,19 +122,36 @@ main h1 {
     margin-right: 20px;
 }
 
-.texto2 {
-    margin-top: 35px;
-    color: white;
-    text-align: justify;
-    margin-left: 18px;
+ li {
+    font-size: larger;
+    margin-left: 10px;
     margin-right: 20px;
 }
 
-img {
+.texto2 {
+    font-size: larger;
+    margin-top: 35px;
+    color: white;
+    text-align: justify;
+    margin-left: 45px;
+    margin-right: 35px;
+}
+
+#i {
     padding-top: 30px;
     height: 235px;
     width: 720px;
     display: block;
     margin: auto;
     border-collapse: collapse;
+}
+
+img {
+    height: 35px;
+    width: 110px;
+}
+.e {
+    
+    color: white;
+    margin-left: 53px;
 }
