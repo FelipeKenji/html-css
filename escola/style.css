@@ -7,6 +7,7 @@
 header > h1 {
     background-color: #6d6d6d;
     text-align: center;
+    color: rgb(55, 158, 255);
 }
 
 body
@@ -90,32 +91,41 @@ header
     width: 1600px;
 }
 
+main {
+    margin: auto;
+}
+
 main h1 {
     color:white;
     text-align: center;
 }
 
-#x {
-    padding-top: 100px;
+.x {
+    margin-left: 45px;
+    text-align: left;
+    padding-top: 45px;
+    color: rgb(72, 130, 255);
+    font-variant: small-caps;
 }
 
 .texto {
     margin-top: 35px;
     color: white;
     text-align: justify;
-    margin-left: 55vw;
-    margin-right: 35px;
+    margin-left: 18px;
+    margin-right: 20px;
 }
 
 .texto2 {
     margin-top: 35px;
     color: white;
     text-align: justify;
-    margin-right: 55vw;
-    margin-left: 35px;
+    margin-left: 18px;
+    margin-right: 20px;
 }
 
 img {
-    height: 43px;
-    width: 43px;
+    height: 100px;
+    width: 100px;
+    margin-left: 200px;
 }
