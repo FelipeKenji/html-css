@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+    background-color: #393535;
+    font-family: Candara;
+  
+}
+main{
+    margin-left: auto;
+    margin-right: auto;
+}
+header h1 {
+    
+    color: #000000;
+    padding: 20px 0;
+    margin: 0px;
+    text-align: center;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+  
+    
+
+}
+header {
+    background-color:#6d6d6d
+}
+
+h1 {
+    font-size: 36px;
+    margin: 10px 0;
+    border-bottom: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+section {
+    padding: 30px;
+    
+}
+
+h2 {
+    font-size: 24px;
+    color: #38afff;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-top: 5px;
+     
+}
+
+ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+a {
+    color: #4f9eec;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+address {
+    color: white;
+    margin-top: 10px;
+    font-style: normal;
+    text-align: left;
+}
+
+footer {
+    background-color: #a8aaac;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+
+}
+
+p {
+    color: white;
+    display: inline-block;
+}
+.figure {
+    padding-left: 10%;
+}
+.figure img {
+    width: 200px;
+  
+}
+
+.descrição {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #fff;
+
+}
+.descrição img{
+    padding-right: 15px
+}
+
+ul{
+    color: white;
+    padding-top: 10px;
+}
+
+.contato{
+    padding: 10px;
+    background-color: #232324;
+    border-radius: 10px 10px 0px 0px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    
+
+}
+
+.contato h2{
+ 
+    padding: 1px;
+    border-bottom: 2px solid rgb(255, 255, 255);
+    margin-bottom: 2px;
+}
+
+#i {
+    height: 35px;
+    width: 110px;
+}
