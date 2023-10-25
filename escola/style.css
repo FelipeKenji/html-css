@@ -112,6 +112,7 @@ main h1 {
     color: #4a92ff;
     text-align: center;
     margin-top: 20px;
+    font-size: xx-large;
 }
 
 .texto {
@@ -147,7 +148,7 @@ main h1 {
 }
 
 img {
-    height: 35px;
+    height: 36px;
     width: 110px;
 }
 .e {
