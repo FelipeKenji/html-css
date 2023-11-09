@@ -30,7 +30,8 @@ header h1 {
 }
 header {
     background-color:#6d6d6d;
-    padding: 20px;
+    padding: 14px;
+    
     
 }
 
@@ -132,6 +133,7 @@ ul{
 #i {
     display: block;
     margin: auto;
-    height: 35px;
-    width: 100px;
+    height: 45px;
+    width: 125px;
+
 }
