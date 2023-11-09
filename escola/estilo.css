@@ -154,11 +154,10 @@ main h1 {
 
 #i {
     padding-top: 30px;
-    height: 220px;
-    width: 720px;
+    height: 215px;
+    width: 725px;
     display: block;
     margin: auto;
-    border-collapse: collapse;
 }
 
 img {
